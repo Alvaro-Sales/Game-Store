@@ -808,6 +808,23 @@ footer p {
             transform: rotateZ(0deg);
         }
     }
+
+    .title-prod {
+        margin: 20px 0 10px 0;
+    }
+
+    .top-slide {
+        display: none;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .top-slide p span img {
+        margin: 0 10px;
+        cursor: pointer;
+        width: 35px;
+        height: 35px;
+    }
 }
 
 
