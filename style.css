@@ -509,6 +509,7 @@ footer .contact .container-icons {
 }
 
 footer p {
+    text-align: center;
     font-size: 15px;
     font-family: Arial, sans-serif;
     color: var(--cor-1);
